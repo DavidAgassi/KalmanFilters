@@ -1,6 +1,6 @@
 cool you found me, if you feel stuck or you don't fancy this part of the Exercise, then you came to the right place.
 
-these cluse hold some information I think you might need to continue, and sometimes life isn't easy, so why not cheat abit.
+these clues hold some information I think you might need to continue, and sometimes life isn't easy, so why not cheat abit.
 
 about indexing,
  notice that the even the Empty Init must process at least one plot so make sure U return at least 1 update.
