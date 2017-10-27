@@ -1,0 +1,4 @@
+how to get the accel?
+well you can get the v of [x1,x2] and [x3,x2], then differentiate.
+
+bonus: after getting the accel you can fix the v' using it.

@@ -1,0 +1,2 @@
+if you are struggling with the init of the cov matrix you can just put big numbers instead.
+(why is that effective, why isn't it ideal?)

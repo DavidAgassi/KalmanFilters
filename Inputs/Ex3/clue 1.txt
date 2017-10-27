@@ -1,0 +1,2 @@
+the state vector should grow, and the other matrixes should addapt as well.
+if you don't remember how accelertion effects the location, there is a small physics snippet attached.

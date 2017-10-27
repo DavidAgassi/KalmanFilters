@@ -1,0 +1,3 @@
+what is your speed in X,Y?
+what is it dependant on?
+what is the derivative of cos(x)?

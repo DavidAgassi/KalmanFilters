@@ -1,0 +1,2 @@
+the EmptyKalmanStep is pretty simple, you don't even have to use the privious step.
+Y not return the new kalman state already in TP, and have a trivial Track2TP?

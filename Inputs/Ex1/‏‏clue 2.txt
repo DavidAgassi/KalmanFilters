@@ -1,0 +1,7 @@
+how do you get the varience of Xdot?
+Xdot is (X2-X1)/T
+break it down to indevidual vars...
+
+and the cov of [Xdot,X]?
+X2 and X1 are independent what does it mean about the cov?
+break down the statment of Xdot*X to X1,X2...

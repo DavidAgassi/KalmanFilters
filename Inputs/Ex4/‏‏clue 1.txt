@@ -1,0 +1,3 @@
+how do you find a way to make sure the current model has failed you and not that it is just a noisy plot?
+look at the distance? the err?
+both???

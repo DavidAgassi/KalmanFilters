@@ -1,0 +1,4 @@
+your track needs to hold at leat 3 different objects
+the time the track was updated
+where it is at the time (the state vector)
+how confident you are it is there (the cov matrix)

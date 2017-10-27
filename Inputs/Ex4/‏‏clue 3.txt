@@ -1,0 +1,2 @@
+is there a general way to test the plots regardlees of the modle??
+have you heard of chi-test?

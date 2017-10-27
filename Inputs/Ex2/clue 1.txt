@@ -1,0 +1,4 @@
+Q is a noise in the model.
+it's basically gusse work.
+try modelling "the target can randomly change it's speed from time to time at the span of X m/sec"
+what woud be affected in the Q mat?
